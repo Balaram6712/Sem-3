@@ -1,3 +1,3 @@
 # Sem-3
 
-Data Structures assignments
+- Data Structures assignments
